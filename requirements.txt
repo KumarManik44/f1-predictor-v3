@@ -1,0 +1,36 @@
+# Core Dependencies
+streamlit==1.28.0
+pandas==2.1.0
+numpy==1.24.3
+
+# Machine Learning
+catboost==1.2.2
+xgboost==2.0.0
+lightgbm==4.1.0
+scikit-learn==1.3.0
+
+# F1 Data Collection
+fastf1==3.3.0
+requests==2.31.0
+
+# Data Processing
+openpyxl==3.1.2
+
+# Visualization (optional, for notebooks)
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Experiment Tracking (optional)
+mlflow==2.8.0
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2023.3
+
+# Streamlit Cloud Optimized Requirements
+streamlit==1.28.0
+pandas==2.1.0
+numpy==1.24.3
+catboost==1.2.2
+scikit-learn==1.3.0
+python-dateutil==2.8.2
