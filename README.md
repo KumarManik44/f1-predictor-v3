@@ -43,6 +43,20 @@ F1 Race Predictor V3 is a machine learning system that predicts Formula 1 race p
 - pip package manager
 - 4GB RAM minimum
 
+- ### Installation
+
+1. **Clone the repository**
+git clone https://github.com/yourusername/f1-predictor-v3.git
+cd f1-predictor-v3
+
+2. **Install dependencies**
+pip install -r requirements.txt
+
+3. **Run the Streamlit app**
+streamlit run app_v3.py
+
+The app will open at `http://localhost:8501`
+
 ## 📁 Project Structure
 
 ```
