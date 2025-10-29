@@ -7,6 +7,10 @@
 [![CatBoost](https://img.shields.io/badge/CatBoost-1.2+-yellow.svg)](https://catboost.ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+## 🚀 Live Demo
+
+[**Try the App Here**](https://f1-predictor-v3.streamlit.app/)
+
 ## 📊 Project Overview
 
 F1 Race Predictor V3 is a machine learning system that predicts Formula 1 race podium finishers with **93.89% accuracy** on test data. The model analyzes qualifying results, driver form, constructor performance, and circuit-specific factors to forecast race outcomes.
