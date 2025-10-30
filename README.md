@@ -279,7 +279,7 @@ Podium       0.83         0.70    0.76       27        180
 
 | Version | Accuracy | Features | Key Innovation |
 |---------|----------|----------|----------------|
-| V1 | 87.5% | 20 | Basic statistics |
+| V1 | 87.5% | 5  | Basic statistics |
 | V2 | 91.29% | 36 | Rolling averages + MLflow |
 | **V3** | **93.89%** | **47** | **Qualifying intelligence** |
 | V4 (Planned) | Target: 96%+ | 60+ | Weather + strategy + circuit mastery |
